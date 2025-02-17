@@ -11,16 +11,15 @@
 - ⚡ Fun fact: I love coding and solving challenges!
 
 **Connect with me:**
-- [LinkedIn](www.linkedin.com/in/amiqa-saleem-435025210)
+- [LinkedIn](https://www.linkedin.com/in/your-link)
 
 **Languages and Tools:**
-- 🌐 HTML5
-- CSS3
-- JavaScript
-- React
-- Bootstrap
-- Git
-- GitHub
-- Node.js
-- Ant Design
+- ![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/HTML5_logo_2019.svg/1200px-HTML5_logo_2019.svg.png)
+- ![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
+- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+- ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+- ![Node.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg)
+- ![Git](https://upload.wikimedia.org/wikipedia/commons/d/d5/Git-logo.svg)
+- ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
+
 
