@@ -14,7 +14,7 @@ Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/your-link)
 
 Languages and Tools:
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/HTML5_logo_2019.svg/1200px-HTML5_logo_2019.svg.png" alt="HTML5" width="30" height="30">
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="30" height="30">
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="30" height="30">
 - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30" height="30">
