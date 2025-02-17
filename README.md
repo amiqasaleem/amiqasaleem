@@ -1,26 +1,31 @@
-## Hi 👋, I'm Amiqa Saleem
+<h1 align="center">Hi 👋, I'm Amiqa Saleem</h1>
+<h3 align="center">Frontend developer skilled in HTML, CSS, JavaScript, React, and currently learning Node.js and MERN stack.</h3>
 
-**Frontend developer skilled in HTML, CSS, JavaScript, React, and currently learning Node.js and MERN stack.**
+- 🌱 I’m currently learning **Node.js and MERN Stack**
 
-- 🌱 I’m currently learning **Node.js** and **MERN Stack**
-- 👨‍💻 All of my projects are available at:
-  https://github.com/amiqasaleem?tab=repositories
-- 👯 I’m looking to collaborate on **Front-end projects**
-- 💬 Ask me about **React**, **JavaScript**, **CSS**
-- 📫 How to reach me: **amiqasaleem@gmail.com**
-- ⚡ Fun fact: I love coding and solving challenges!
+- 👯 I’m looking to collaborate on **on Front-end projects**
 
-Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/your-link)
+- 👨‍💻 All of my projects are available at [https://github.com/amiqasaleem?tab=repositories](https://github.com/amiqasaleem?tab=repositories)
 
-Languages and Tools:
-- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="30" height="30">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="30" height="30">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30" height="30">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg" alt="Node.js" width="30" height="30">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Git-logo.svg" alt="Git" width="30" height="30">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="30" height="30">
+- 💬 Ask me about **React, JavaScript, CSS**
+
+- 📫 How to reach me **amiqasaleem@gmail.com**
+
+- ⚡ Fun fact **I love coding and solving challenges!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/amiqasaleem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amiqasaleem" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiqasaleem&show_icons=true&locale=en&layout=compact" alt="amiqasaleem" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amiqasaleem&show_icons=true&locale=en" alt="amiqasaleem" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amiqasaleem&" alt="amiqasaleem" /></p>
 
 
 
